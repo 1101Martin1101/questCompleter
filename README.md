@@ -6,7 +6,7 @@ Automatically complete Discord quests!
 
 ## Features
 
-✨ **Automatic quest completion** - The plugin takes care of all your quests without any further effort
+✨ **Automatic quest completion** - The plugin helps automate quest progress after you start them
 
 🎮 **Support for all quest types:**
 
@@ -16,23 +16,22 @@ Automatically complete Discord quests!
 * PLAY_ACTIVITY - Playing activities in voice channels
 * WATCH_VIDEO_ON_MOBILE - Watching videos on mobile
 
-🔔 **Real-time notifications** - See when each quest is completed
-
 ⚡ **Easy to use** - One click and you're done!
 
 ## How it works
 
 * Go to the **Quests section** in Discord
+* Manually start a quest
 * Click the **"Complete Quests" button** (in the top toolbar next to the icon)
 
-👉 The plugin will start completing quests that are already available to the user.
+👉 The plugin will start completing the quest that the user has started.
 
 ### The plugin automatically:
 
-* Finds all available quests
+* Works only with quests started by the user
 * Detects their type
-* Simulates the required actions
-* Shows notifications when quests are completed
+* Simulates the required actions to complete them
+
 
 ## Installation
 
