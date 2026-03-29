@@ -22,14 +22,17 @@ Automatically complete Discord quests!
 
 ## How it works
 
-1. **Go to the Quests section** in Discord
-2. **Click the "Complete Quests" button** (in the top toolbar next to the icon)
-3. **The plugin automatically:**
+* Go to the **Quests section** in Discord
+* Click the **"Complete Quests" button** (in the top toolbar next to the icon)
 
-   * Finds all available quests
-   * Detects their type
-   * Simulates the required actions
-   * Shows notifications when quests are completed
+👉 The plugin will start completing quests that are already available to the user.
+
+### The plugin automatically:
+
+* Finds all available quests
+* Detects their type
+* Simulates the required actions
+* Shows notifications when quests are completed
 
 ## Installation
 
