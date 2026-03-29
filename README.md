@@ -1,5 +1,6 @@
 # Quest Completer
 
+![Quest Completer](questCompleter.png)
 Automatically complete Discord quests!
 
 ## Features
