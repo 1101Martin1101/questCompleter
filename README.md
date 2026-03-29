@@ -1,7 +1,8 @@
 # Quest Completer
 
-![Quest Completer](questCompleter.png)
 Automatically complete Discord quests!
+
+![Quest Completer](questCompleter.png)
 
 ## Features
 
@@ -44,20 +45,32 @@ cd Vencord
 # 3. Install dependencies
 pnpm install
 
-# 4. Go to the plugins folder
-cd Vencord/src/plugins
+# 4A. Go to the plugins folder (default way)
+cd src/plugins
 
-# 5. Clone the Quest Completer plugin
+# 5A. Clone the Quest Completer plugin
 git clone https://github.com/1101Martin1101/autoQuestButton
 
-# 6. Go back to the main Vencord folder
-cd ../../..
+# --- OR ---
 
-# 7. Build Vencord with your new plugin
+# 4B. Go to src folder
+cd src
+
+# 5B. Create userplugins folder
+mkdir userplugins
+cd userplugins
+
+# 6B. Clone the plugin there
+git clone https://github.com/1101Martin1101/autoQuestButton
+
+# 7. Go back to the main Vencord folder
+cd ../../
+
+# 8. Build Vencord with your new plugin
 pnpm build
 pnpm inject
 
-# 8. Select your Discord client when prompted
+# 9. Select your Discord client when prompted
 ```
 
 Once installed, enable the plugin in the **Vencord plugin settings** inside Discord.
