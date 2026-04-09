@@ -1,5 +1,5 @@
 # Quest Completer
-
+# ⚠️ DETECTED
 Automatically complete Discord quests!
 
 ![Quest Completer](questCompleter.png)
